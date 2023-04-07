@@ -1,0 +1,31 @@
+Source Code
+
+selenium webdriver
+
+random
+
+random_password
+
+random_username
+
+i range(8, 6):
+ran_small_alpha_ord2 = random.randrange(é65, 90)
+ran_small_alpha2 = chr(ran_small_alpha_ord2)
+
+ran_large_alpha_ord2 = random.randrange(97, 122)
+
+ran_large_alpha2 = chr(ran_large_alpha_ord2)
+
+random_username = random_username + ran_small_alpha2 + ran_large_alpha2
+
+ran_username_num =
+i range(8, 3):
+ran_num_ord = random.randrange(48, 57)
+ran_num = chr(ran_num_ord)
+
+ran_username_num = ran_username_num + ran_num
+
+random_username = random_username + + ran_username_num
+
+print ( random_username)
+
